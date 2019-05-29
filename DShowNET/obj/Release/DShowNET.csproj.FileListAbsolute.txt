@@ -1,0 +1,4 @@
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DShowNET\bin\Release\DShowNET.dll
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DShowNET\obj\Release\DShowNET.csprojAssemblyReference.cache
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DShowNET\obj\Release\DShowNET.csproj.CoreCompileInputs.cache
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DShowNET\obj\Release\DShowNET.dll

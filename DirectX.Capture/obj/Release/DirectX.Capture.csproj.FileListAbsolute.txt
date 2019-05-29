@@ -1,0 +1,7 @@
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DirectX.Capture\bin\Release\DirectX.Capture.dll
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DirectX.Capture\bin\Release\DirectX.Capture.xml
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DirectX.Capture\bin\Release\DShowNET.dll
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DirectX.Capture\obj\Release\DirectX.Capture.csprojAssemblyReference.cache
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DirectX.Capture\obj\Release\DirectX.Capture.csproj.CoreCompileInputs.cache
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DirectX.Capture\obj\Release\DirectX.Capture.csproj.CopyComplete
+D:\C# projects\Video Chat\P2P_Video_DirectShow\DirectX.Capture\obj\Release\DirectX.Capture.dll

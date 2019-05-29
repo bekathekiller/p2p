@@ -1,0 +1,15 @@
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\P2P_Video_DirectShow.exe.config
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\P2P_Video_DirectShow.exe
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\P2P_Video_DirectShow.pdb
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\DirectX.Capture.dll
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\DShowNET.dll
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\DirectX.Capture.pdb
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\bin\Debug\DShowNET.pdb
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Debug\P2P_Video_DirectShow.csprojAssemblyReference.cache
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Debug\P2P_Video_DirectShow.P2PVideoCall.resources
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Debug\P2P_Video_DirectShow.Properties.Resources.resources
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Debug\P2P_Video_DirectShow.csproj.GenerateResource.cache
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Debug\P2P_Video_DirectShow.csproj.CoreCompileInputs.cache
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Debug\P2P_Video_DirectShow.csproj.CopyComplete
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Debug\P2P_Video_DirectShow.exe
+D:\C# projects\Video Chat\P2P_Video_DirectShow\P2P_Video_DirectShow\obj\x86\Debug\P2P_Video_DirectShow.pdb
